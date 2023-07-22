@@ -1,0 +1,3 @@
+[submodule "pi_tpi"] 
+	path = pi_tpi
+	url = git@github.com:stefkalad/avr-attiny-tpi.git
